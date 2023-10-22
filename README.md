@@ -37,8 +37,8 @@
     <td>OSINT</td>
   </tr>
   <tr>
-    <td>Primary Weapons</td>
-    <td>Gentoo Linux, Pentoo</td>
+    <td>Primary Weapon</td>
+    <td>Gentoo Linux</td>
   </tr>
   <tr>
     <td>Secondary Weapons</td>
