@@ -98,8 +98,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/de/4/4f/ICANN.svg" alt="icann" width="150">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/OpenVPN_logo.svg" alt="openvpn" width="120">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_of_WireGuard.svg" alt="wireguard" width="190">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Traefik.logo.png" alt="traefik" width="200">
-    <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached" width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Traefik.logo.png" alt="traefik" width="110">
+    <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached" width="110">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="apache" width="110">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Shodan_logo.png" alt="wp" width="130">
     <img src="https://user-images.githubusercontent.com/1128849/210187358-e2c39003-9a5e-4dd5-a783-6deb6483ee72.svg" alt="caddy" width="100">
