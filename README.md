@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/1270011"><img src="https://github.com/1270011/1270011/blob/master/devcard.svg" width="400" alt="1270011's Dev Card"/></a>
+
 <!--
 **1270011/1270011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
