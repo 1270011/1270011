@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>Secondary Weapons</td>
-    <td>Alpine | Debian | freeBSD | NT</td>
+    <td>Alpine | Debian | freeBSD |</td>
   </tr>
   <tr>
     <td>Homeworld</td>
@@ -66,7 +66,6 @@
     <img src="https://www.linuxadictos.com/wp-content/uploads/Porteus-Kiosk-768x292.png.webp" alt="PorteusKiosk" width="110">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/ReactOS_logo.svg" alt="react" width="90">
     <img src="https://www.proxmox.com/images/proxmox/logos/mediakit-proxmox-server-solutions-logos-dark.svg" alt="pve" width="300">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Msdos-icon.svg/1024px-Msdos-icon.svg.png" alt="pve" width="80">
 </p>
 
 ## Magic spells
