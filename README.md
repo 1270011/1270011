@@ -110,13 +110,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1024px-Gnu-bash-logo.svg.png" alt="bash" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1024px-The_C_Programming_Language_logo.svg.png" alt="C" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png" alt="R" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="java" width="100">
     <img src="https://4.bp.blogspot.com/-GwTKyizkczk/U7e03752HsI/AAAAAAAAGvE/4KsLPgOu-p8/s1600/logo_sql.gif" alt="sql" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" alt="php" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Perl_language_logo.svg/1024px-Perl_language_logo.svg.png" alt="perl" width="100">
     <img src="https://itsfoss.com/content/images/wordpress/2022/03/xonsh-shell-1.png" alt="xonsh" width="100">
-    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Fuchsia.png" alt="go" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="powershell" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="c#" width="100">
 </p>
