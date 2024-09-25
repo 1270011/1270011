@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
   <div style="width: 400px;">
-    <h2 style="font-weight: bold;">Welcome to my public GitHub (⊙_◎)</h2>
+    <h2 style="font-weight: bold;">Welcome to my public GitHub</h2>
   </div>
   <div>
   <td >
