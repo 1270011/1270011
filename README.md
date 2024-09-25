@@ -91,7 +91,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MediaWiki-2020-large-icon.svg/222px-MediaWiki-2020-large-icon.svg.png" alt="mediawiki" width="170">
     <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="wireshark" width="170">
     <img src="https://assets-global.website-files.com/623ac4fd38806b4967e7c808/623ac749f9a5e01f8e8ae9f6_logo_crowdsec.svg" alt="crowdsec" width="270">
-    <img src="https://cutewallpaper.org/28x/qzq8m4o79/1660110379.jpg" alt="wireshark" width="170">
     <img src="https://nmap.org/images/nmap_bnr_eyemap.png" alt="wireshark" width="290">
     <img src="https://www.isc.org/images/Bind_9_ISC_Blue_320x320.png" alt="bind9" width="290">
     <img src="https://upload.wikimedia.org/wikipedia/de/4/4f/ICANN.svg" alt="icann" width="150">
@@ -109,11 +108,8 @@
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1024px-Gnu-bash-logo.svg.png" alt="bash" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/1024px-The_C_Programming_Language_logo.svg.png" alt="C" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="java" width="100">
     <img src="https://4.bp.blogspot.com/-GwTKyizkczk/U7e03752HsI/AAAAAAAAGvE/4KsLPgOu-p8/s1600/logo_sql.gif" alt="sql" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Perl_language_logo.svg/1024px-Perl_language_logo.svg.png" alt="perl" width="100">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" alt="powershell" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="c#" width="100">
 </p>
 
