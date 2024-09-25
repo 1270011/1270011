@@ -6,7 +6,7 @@
   </div>
   <div>
   <td >
-      <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/1270011/1270011/blob/main/devcard.svg" width="400" alt="My DevCard :)"/></a>
+      <!--<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/1270011/1270011/blob/main/devcard.svg" width="400" alt="My DevCard :)"/></a>-->
   </td>
   </div>
 </div>
