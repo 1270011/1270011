@@ -58,7 +58,6 @@
     <img src="https://www.gentoo.org/assets/img/logo/gentoo-logo.svg" alt="Gentoo" width="200">
     <img src="https://cdn.worldvectorlogo.com/logos/freebsd.svg" alt="freeBSD" width="100">
     <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="Alpine" width="150">
-    <img src="https://avatars0.githubusercontent.com/u/6411603?v=3&s=200" alt="Pentoo" width="200">
     <img src="https://cdn.svgporn.com/logos/debian.svg" alt="Debian" width="180">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png" alt="pfSense" width="85">
     <img src="https://github.com/openwrt/branding/blob/master/logo/openwrt_logo_text_vertical_blue_and_dark_blue.svg" alt="OpenWrt" width="75">
