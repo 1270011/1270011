@@ -1,5 +1,5 @@
 ### 
-
+![Terminal](https://readme-typing-svg.herokuapp.com/?lines=root@blueteam:~%23+nmap+-sS+target;root@blueteam:~%23+wireshark+-i+eth0;root@blueteam:~%23+tail+-f+/var/log/auth.log;root@blueteam:~%23+crowdsec+metrics;root@blueteam:~%23+system+status:+secure&font=Ubuntu%20Mono&center=false&width=500&height=100&color=00FF41&background=0D1117&vCenter=true&size=14&pause=1000)
 <div style="display: flex;">
   <div style="width: 400px;">
     <h2 style="font-weight: bold;">Welcome to my public GitHub</h2>
@@ -49,8 +49,6 @@
     <td>miraNET: A private, network-level hardened world</td>
   </tr>
 </table>
-
-![Terminal](https://readme-typing-svg.herokuapp.com/?lines=root@blueteam:~%23+nmap+-sS+target;root@blueteam:~%23+wireshark+-i+eth0;root@blueteam:~%23+tail+-f+/var/log/auth.log;root@blueteam:~%23+crowdsec+metrics;root@blueteam:~%23+system+status:+secure&font=Ubuntu%20Mono&center=false&width=500&height=100&color=00FF41&background=0D1117&vCenter=true&size=14&pause=1000)
 
 <p align="center">
   <img src="https://img.shields.io/badge/🛡️-Blue_Team-00FF41?style=for-the-badge&labelColor=000000" />
