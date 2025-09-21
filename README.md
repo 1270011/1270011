@@ -52,9 +52,25 @@
 
 ![Terminal](https://readme-typing-svg.herokuapp.com/?lines=root@blueteam:~%23+nmap+-sS+target;root@blueteam:~%23+wireshark+-i+eth0;root@blueteam:~%23+tail+-f+/var/log/auth.log;root@blueteam:~%23+crowdsec+metrics;root@blueteam:~%23+system+status:+secure&font=Ubuntu%20Mono&center=false&width=500&height=100&color=00FF41&background=0D1117&vCenter=true&size=14&pause=1000)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,python,bash,nginx,apache,mysql,redis,grafana,prometheus,elasticsearch,git&theme=dark&perline=6" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🛡️-Blue_Team-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🔍-OSINT-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🚨-SOC-00FF41?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🔒-Hardening-00FF41?style=for-the-badge&labelColor=000000" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,python,bash,vim,git&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+</p>
 
 ![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=1270011&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff)
 
