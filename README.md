@@ -50,10 +50,21 @@
   </tr>
 </table>
 
+![Terminal](https://readme-typing-svg.herokuapp.com/?lines=root@blueteam:~%23+nmap+-sS+target;root@blueteam:~%23+wireshark+-i+eth0;root@blueteam:~%23+tail+-f+/var/log/auth.log;root@blueteam:~%23+crowdsec+metrics;root@blueteam:~%23+system+status:+secure&font=Ubuntu%20Mono&center=false&width=500&height=100&color=00FF41&background=0D1117&vCenter=true&size=14&pause=1000)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,python,bash,nginx,apache,mysql,redis,grafana,prometheus,elasticsearch,git&theme=dark&perline=6" />
+</div>
+
+![Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=1270011&layout=compact&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=ffffff)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=1270011&theme=onedark)
 
 <!--Skill tree-->
 ## OS weapons
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Blue+Team+Specialist;Security+Operations+Expert;Threat+Hunter;Incident+Response+Professional;OSINT+Investigator&font=Fira%20Code&center=true&width=380&height=50&color=00FF41&background=000000&vCenter=true&size=22)
+
 <p align="center">
     <img src="https://www.gentoo.org/assets/img/logo/gentoo-logo.svg" alt="Gentoo" width="200">
     <img src="https://cdn.worldvectorlogo.com/logos/freebsd.svg" alt="freeBSD" width="100">
@@ -68,6 +79,13 @@
 </p>
 
 ## Magic spells
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Blue%20Team-Expert-00FF41?style=for-the-badge&logo=shield&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/OSINT-Specialist-00FF41?style=for-the-badge&logo=searchengin&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Threat%20Hunter-Active-00FF41?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
+</p>
+
 <p align="center">
     <img src="https://media.kingston.com/kingston/hero/ktc-hero-solutions-servers-data-centers-accelerate-your-server-performance-with-ssd-raid-lg.jpg" alt="Raid" width="140">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="250">
@@ -80,6 +98,9 @@
 </p>
 
 ## Supplies
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:008F11&height=200&section=header&text=Security%20Operations%20Center&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="210">
     <img src="https://www.ugolnik.info/wp-content/uploads/2009/05/Linux-Kernel_logo.png" alt="kernel" width="140">
@@ -112,22 +133,20 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="c#" width="100">
 </p>
 
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1270011&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)-->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1270011&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=1270011&theme=chartreuse-dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+</div>
 
-<!--![1270011's GitHub stats](https://github-readme-stats.vercel.app/api?username=1270011&theme=tokyonight&show_icons=true)-->
-
-
-<!--
-**1270011/1270011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+┌──(blueteam㉿SOC)-[~/threat-hunting]
+└─$ whoami && uptime && netstat -tulpn | grep LISTEN
+```
+- 🔭 I’m currently working on hardening networks & *NIX systems while architecting zero-trust network segmentation for enterprise environments.
+- 🌱 I’m currently learning ADA and any day something new.
+- 👯 I’m looking to collaborate on threat intelligence sharing platforms, network monitoring solutions, and security awareness campaigns.
+- 🤔 I’m looking for help with building custom threat intelligence feeds and developing automated incident response orchestration.
+- 💬 Ask me about Linux hardening, incident response, disaster recovery, network segmentation, OSINT investigations, security compliance frameworks / CIS benchmarks and a lot more [...]
+- 📫 How to reach me: public_contact@use.startmail.com (PGP encrypted & signed email preferred)
+- 🎯 Mission: Defending digital infrastructure
+- ⚡ Fun facts: I can compile a custom Linux kernel in under 30 minutes - I maintain a 24/7 honeypot network - Always accepting challenges for a successful intrusion -  
