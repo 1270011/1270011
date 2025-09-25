@@ -159,8 +159,8 @@ That curiosity evolved into expertise in system hardening and network defense.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1270011&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=1270011&theme=chartreuse-dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 </div>
+
 
 ```bash
 ┌──(blueteam㉿SOC)-[~/threat-hunting]
