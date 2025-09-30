@@ -169,7 +169,7 @@ That curiosity evolved into expertise in system hardening and network defense.
 - 🔭 I’m currently working on hardening networks & *NIX systems while architecting zero-trust network segmentation for enterprise environments.
 - 🌱 I’m currently learning ADA and any day something new.
 - 👯 I’m looking to collaborate on threat intelligence sharing platforms, network monitoring solutions, and security awareness campaigns.
-- 🤔 I’m looking for help with building custom threat intelligence feeds and developing automated incident response orchestration.
+- 🤔 I’m looking for help with PVE hardening, without breaking stuff in prod.
 - 💬 Ask me about Linux hardening, incident response, disaster recovery, network segmentation, OSINT investigations, security compliance frameworks / CIS benchmarks and a lot more [...]
 - 📫 How to reach me: public_contact@use.startmail.com (PGP encrypted & signed email preferred)
 - 🎯 Mission: Defending digital infrastructure
