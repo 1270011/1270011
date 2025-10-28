@@ -171,6 +171,6 @@ That curiosity evolved into expertise in system hardening and network defense.
 - 👯 I’m looking to collaborate on threat intelligence sharing platforms, network monitoring solutions, and security awareness campaigns.
 - 🤔 I’m looking for help with PVE hardening, without breaking stuff in prod.
 - 💬 Ask me about Linux hardening, incident response, disaster recovery, network segmentation, OSINT investigations, security compliance frameworks / CIS benchmarks and a lot more [...]
-- 📫 How to reach me: public_contact@use.startmail.com (PGP encrypted & signed email preferred)
+- 📫 How to reach me: contact@grebenyuk.de (PGP encrypted & signed email preferred)
 - 🎯 Mission: Defending digital infrastructure
 - ⚡ Fun facts: I can compile a custom Linux kernel in under 30 minutes - I maintain a 24/7 honeypot network - Blue team defender seeking worthy adversaries 🛡️⚔️ (red teamers welcome to try) 🎯
