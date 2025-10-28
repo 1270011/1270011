@@ -1,7 +1,7 @@
 ### 
 ![Terminal](https://readme-typing-svg.herokuapp.com/?lines=root@blueteam:~%23+nmap+-sS+target;root@blueteam:~%23+wireshark+-i+eth0;root@blueteam:~%23+tail+-f+/var/log/auth.log;root@blueteam:~%23+crowdsec+metrics;root@blueteam:~%23+system+status:+secure&font=Ubuntu%20Mono&center=false&width=500&height=100&color=00FF41&background=0D1117&vCenter=true&size=14&pause=1000)
 
-## 🌱 My Mission:
+## My Mission:
 Started as a curious kid breaking (and fixing) computers.  
 That curiosity evolved into expertise in system hardening and network defense.
 
